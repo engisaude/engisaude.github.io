@@ -1725,6 +1725,51 @@ body {
 .cid-qx6eUhmBZQ .social-list a:focus {
   text-decoration: none;
 }
+.cid-qz3EzHAPbP {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #0f7699;
+}
+.cid-qz3EzHAPbP .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-qz3EzHAPbP .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-qz3EzHAPbP .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-qz3EzHAPbP .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-qz3EzHAPbP .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qz3EzHAPbP .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qz3EzHAPbP .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qz3EzHAPbP .btn-social {
+  border: none !important;
+}
+.cid-qz3EzHAPbP [class^="socicon-"]:before,
+.cid-qz3EzHAPbP [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qz3EzHAPbP .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-qx6fYpBcXA {
   background-image: url("../../../assets/images/site2-2000x1500.jpg");
 }
@@ -1951,6 +1996,15 @@ body {
   display: none;
 }
 .cid-qxgluFulO8 P {
+  color: #767676;
+}
+.cid-qz3PaHjJQ1 {
+  padding-top: 75px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-qz3PaHjJQ1 .mbr-text,
+.cid-qz3PaHjJQ1 blockquote {
   color: #767676;
 }
 .cid-qx6dG7Sb0U .navbar {
@@ -2804,6 +2858,51 @@ body {
 .cid-qxgpAYVhqE .mbr-section-btn {
   color: #767676;
 }
+.cid-qz3GwXSMV8 {
+  padding-top: 120px;
+  padding-bottom: 15px;
+  background-color: #0f7699;
+}
+.cid-qz3GwXSMV8 .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-qz3GwXSMV8 .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-qz3GwXSMV8 .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-qz3GwXSMV8 .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-qz3GwXSMV8 .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qz3GwXSMV8 .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qz3GwXSMV8 .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qz3GwXSMV8 .btn-social {
+  border: none !important;
+}
+.cid-qz3GwXSMV8 [class^="socicon-"]:before,
+.cid-qz3GwXSMV8 [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qz3GwXSMV8 .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-qx6dG7Sb0U .navbar {
   padding: .5rem 0;
   background: #0f7699;
@@ -3181,7 +3280,7 @@ body {
   }
 }
 .cid-qxgPoCsQnq {
-  padding-top: 120px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -3251,6 +3350,51 @@ body {
 }
 .cid-qxgzOI3jSV .card-box {
   padding-top: 2rem;
+}
+.cid-qz3NFf7XfJ {
+  padding-top: 90px;
+  padding-bottom: 45px;
+  background-color: #0f7699;
+}
+.cid-qz3NFf7XfJ .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-qz3NFf7XfJ .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-qz3NFf7XfJ .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-qz3NFf7XfJ .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-qz3NFf7XfJ .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qz3NFf7XfJ .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qz3NFf7XfJ .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qz3NFf7XfJ .btn-social {
+  border: none !important;
+}
+.cid-qz3NFf7XfJ [class^="socicon-"]:before,
+.cid-qz3NFf7XfJ [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qz3NFf7XfJ .btn {
+    font-size: 20px !important;
+  }
 }
 .cid-qx6dG7Sb0U .navbar {
   padding: .5rem 0;
@@ -3629,7 +3773,7 @@ body {
   }
 }
 .cid-qxgP7YVVvb {
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #efefef;
 }
@@ -3637,7 +3781,7 @@ body {
   color: #767676;
 }
 .cid-qxgLcZvNmq {
-  padding-top: 135px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
