@@ -4042,7 +4042,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_name": "table1",
