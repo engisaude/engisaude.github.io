@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde",
-    "currentPage": "page6.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4042,7 +4042,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#f7ed4a"
             }
           },
           "_name": "table1",
