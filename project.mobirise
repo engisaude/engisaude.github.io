@@ -39,7 +39,14 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "robotsText": "consultoria ambiental, formação, produtos de saúde, plantas medicinais\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://engisaude.github.io",
+    "sitemapSwitcherAuto": "on",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
