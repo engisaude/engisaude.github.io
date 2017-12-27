@@ -4269,7 +4269,7 @@ body {
 .cid-qxinN24Qin {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1631x1080.jpg");
+  background-image: url("../../../assets/images/imag-cons-amb-pg-in-s-letras-960x692.jpg");
 }
 .cid-qxinN24Qin .mbr-section-subtitle {
   color: #ffffff;
@@ -4350,7 +4350,7 @@ body {
   color: #886586;
 }
 .cid-qxinN24Qin .mbr-section-title B {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-qx6dG7Sb0U .navbar {
   padding: .5rem 0;
@@ -4809,7 +4809,10 @@ body {
   }
 }
 .cid-qxinN24Qin .mbr-section-title {
-  color: #f7ed4a;
+  color: #ffffff;
+}
+.cid-qxinN24Qin .mbr-section-title B {
+  color: #232323;
 }
 .cid-qx6dG7Sb0U .navbar {
   padding: .5rem 0;
