@@ -8634,9 +8634,9 @@ body {
   }
 }
 .cid-qEt6Ayy0Ep {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/cimg3718-2000x1500.jpg");
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/montra-ecr-div-engisade-2000x1500.jpg");
 }
 .cid-qEt6Ayy0Ep .mbr-section-subtitle {
   color: #767676;
@@ -8689,30 +8689,30 @@ body {
   margin: 0;
   text-align: center;
   overflow: hidden;
-  -o-transform: rotateY(-180deg);
-  -ms-transform: rotateY(-180deg);
-  -moz-transform: rotateY(-180deg);
-  -webkit-transform: rotateY(-180deg);
-  transform: rotateY(-180deg);
+  -o-transform: rotateX(-180deg);
+  -ms-transform: rotateX(-180deg);
+  -moz-transform: rotateX(-180deg);
+  -webkit-transform: rotateX(-180deg);
+  transform: rotateX(-180deg);
 }
 .cid-qEt6Ayy0Ep .card {
   min-height: 300px;
 }
 .cid-qEt6Ayy0Ep .card:hover .card-front {
   z-index: 1;
-  -o-transform: rotateY(180deg);
-  -ms-transform: rotateY(180deg);
-  -moz-transform: rotateY(180deg);
-  -webkit-transform: rotateY(180deg);
-  transform: rotateY(180deg);
+  -o-transform: rotateX(180deg);
+  -ms-transform: rotateX(180deg);
+  -moz-transform: rotateX(180deg);
+  -webkit-transform: rotateX(180deg);
+  transform: rotateX(180deg);
 }
 .cid-qEt6Ayy0Ep .card:hover .card_back {
   z-index: 2;
-  -o-transform: rotateY(0deg);
-  -ms-transform: rotateY(0deg);
-  -moz-transform: rotateY(0deg);
-  -webkit-transform: rotateY(0deg);
-  transform: rotateY(0deg);
+  -o-transform: rotateX(0deg);
+  -ms-transform: rotateX(0deg);
+  -moz-transform: rotateX(0deg);
+  -webkit-transform: rotateX(0deg);
+  transform: rotateX(0deg);
 }
 .cid-qEt6Ayy0Ep .builderCard .card_back {
   border-bottom-left-radius: 100px;
@@ -8735,5 +8735,8 @@ body {
   color: #f7ed4a;
 }
 .cid-qEt6Ayy0Ep .mbr-section-subtitle B {
-  color: #000000;
+  color: #232323;
+}
+.cid-qEt6Ayy0Ep .mbr-section-title {
+  color: #232323;
 }
