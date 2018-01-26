@@ -35,7 +35,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 162,
+    "uniqCompNum": 164,
     "versionPublish": "4.6.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1008,7 +1008,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Sobre Nós",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -1449,7 +1449,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Consultadoria Ambiental",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -2000,7 +2000,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Formação Profissional",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -2601,7 +2601,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Produtos de saúde e bem estar",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -3218,7 +3218,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Formação Ambiente",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -3724,7 +3724,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Formação Agricola",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -4230,7 +4230,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Formação Saúde",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -4733,7 +4733,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Técnico auxiliar de saúde",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -5168,7 +5168,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "formação Gestão ambiental",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -5602,7 +5602,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Gestão de resíduos hospitalares",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -6030,7 +6030,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Gestão resíduos eletrónicos",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -6458,7 +6458,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Gestão resíduos de mecânica",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -6951,7 +6951,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Plantas medicinais&nbsp;",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -7595,7 +7595,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Cosmética e higiene pessoal",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -8115,7 +8115,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Ecrã dinâmico",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -8735,7 +8735,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Modo AB formção",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -9222,7 +9222,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Segurança e Saúde trabalho agrícola",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
