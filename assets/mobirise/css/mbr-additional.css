@@ -11930,6 +11930,74 @@ body {
 .cid-qITnp5buUf .team-item .item-caption {
   background: #efefef;
 }
+.cid-qJ4GAckYw4 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/background5.jpg");
+}
+.cid-qJ4GAckYw4 .testimonial-text {
+  font-style: italic;
+  color: #0f7699;
+  font-weight: 300;
+}
+.cid-qJ4GAckYw4 .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-qJ4GAckYw4 .mbr-author-desc {
+  color: #232;
+}
+.cid-qJ4GAckYw4 .testimonial-text B {
+  color: #0f7699;
+}
+.cid-qJ4Gfrc3oK {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #0f7699;
+}
+.cid-qJ4Gfrc3oK .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-qJ4Gfrc3oK .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-qJ4Gfrc3oK .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-qJ4Gfrc3oK .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-qJ4Gfrc3oK .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qJ4Gfrc3oK .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qJ4Gfrc3oK .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qJ4Gfrc3oK .btn-social {
+  border: none !important;
+}
+.cid-qJ4Gfrc3oK [class^="socicon-"]:before,
+.cid-qJ4Gfrc3oK [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qJ4Gfrc3oK .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qJ4Gfrc3oK .mbr-section-title {
+  color: #ffffff;
+}
 .cid-qx6dG7Sb0U .navbar {
   padding: .5rem 0;
   background: #0f7699;
