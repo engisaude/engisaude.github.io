@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde",
-    "currentPage": "page4.html",
+    "currentPage": "page21.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12110,7 +12110,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cotovelreira-356x510-356x510.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "cotovelo elástico&nbsp;<br>aquamed active 13,5€",
+                "caption": "cotovelo elástico&nbsp;<br>aquamed active&nbsp;",
                 "active": false
               },
               {
@@ -12158,7 +12158,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/acessrios-257x196-257x196.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Acessórios&nbsp;<br>Quies protetor de ouvidos - 9,08€",
+                "caption": "Acessórios&nbsp;<br>Quies protetor de ouvidos&nbsp;",
                 "active": false
               }
             ]
