@@ -3628,31 +3628,6 @@ body {
     font-size: 20px !important;
   }
 }
-.cid-qIkArgzH3v {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/fig-elementos-qumicos-668x712.png");
-}
-.cid-qIkArgzH3v .media-container-row {
-  flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-qIkArgzH3v .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qIkArgzH3v .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qIkArgzH3v .mbr-text {
-    text-align: center;
-  }
-}
 .cid-qx6dG7Sb0U .navbar {
   padding: .5rem 0;
   background: #0f7699;
