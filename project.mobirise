@@ -14127,7 +14127,7 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Auxiliar de Fitoterapia",
+                "tags": "Auxiliar de Fisioterapia",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -14137,7 +14137,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Digite aqui a legenda",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Técnico em SPA I",
@@ -14202,7 +14202,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Digite aqui a legenda",
-                "active": true
+                "active": false
               }
             ]
           }
