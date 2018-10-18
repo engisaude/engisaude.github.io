@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde",
-    "currentPage": "page26.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 301,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -3400,6 +3400,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/tensiometro-aposan-de-brao-270x270.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tensiometro-aposan-de-brao-270x270-270x270.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tensiómetro de braço APOSAN",
+                "active": false
+              },
+              {
+                "tags": "ómega 3,6 e 9",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/omega-36-e-9-divulgao-1300x702.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/omega-36-e-9-divulgao-1300x702-800x432.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
