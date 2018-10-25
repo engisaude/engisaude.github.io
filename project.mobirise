@@ -16991,7 +16991,7 @@
                 "active": false
               },
               {
-                "tags": "",
+                "tags": "mía",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -17001,7 +17001,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Mía. As notas florais e orientais junto com o almiscarado aroma do Jasmim de Sambac criam um perfume intenso, que deixa um aroma sensual ao passar.",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Rinascere",
@@ -17014,7 +17014,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Rinascere.\n<br>O frescor do pomelo em combinação com a delicadeza do ylang-ylang e a intensidade do Almíscar fazem deste perfume uma experiência olfativa única.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Complicidad",
