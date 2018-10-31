@@ -14536,7 +14536,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Digite aqui a legenda",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Técnico em SPA I",
@@ -14552,17 +14552,17 @@
                 "active": false
               },
               {
-                "tags": "Curso Estética Básica",
+                "tags": "Curso Estética Básica B-learning",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/curso-esttica-bsica-960x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/curso-esttica-bsica-960x720-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/esttica-bsica-b-learning-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/esttica-bsica-b-learning-1280x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Digite aqui a legenda",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Formações Rosto",
