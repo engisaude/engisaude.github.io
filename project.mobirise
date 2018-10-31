@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde",
-    "currentPage": "page3.html",
+    "currentPage": "page26.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -14526,12 +14526,12 @@
             "gallery__filtersBtnStyle": "btn-danger",
             "gallery": [
               {
-                "tags": "Auxiliar de Fisioterapia",
+                "tags": "Auxiliar de Fisioterapia B-learning",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/curso-auxiliar-de-fisioterapia-960x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/curso-auxiliar-de-fisioterapia-960x720-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/auxiliar-de-fisioterapia-b-learning-1280x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/auxiliar-de-fisioterapia-b-learning-1280x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
