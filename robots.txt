@@ -1,3 +1,2 @@
-consultoria ambiental, formação, produtos de saúde, plantas medicinais, cosméticos, suplementos alimentares, medicamentos
-
-
+User-agent: *
+Disallow: /cgi-bin
