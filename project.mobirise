@@ -3865,6 +3865,9 @@
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "color": "#ffffff"
             }
           },
           "_name": "gallery2",
@@ -4041,7 +4044,7 @@
                 "active": false
               },
               {
-                "tags": "Plantas medicinais e fitoterapia",
+                "tags": "Plantas medicinais e Fitoterapia",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -4050,7 +4053,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page20.html\" class=\"text-white\">Curso Técnico(a) Auxiliar de Farmácia</a>",
+                "caption": "<a href=\"page20.html\" class=\"text-white\">P</a>lantas medicinais e Fitoterapia",
                 "active": true
               }
             ]
