@@ -1840,44 +1840,45 @@ section.lazy-placeholder:after {
 .cid-rJMrfMy5Ay .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rJMoguOP0D {
+.cid-rJT3f7XoLi {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cccccc;
+  background-color: #efefef;
 }
-.cid-rJMoguOP0D .mbr-slider .carousel-control {
+.cid-rJT3f7XoLi .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-rJMoguOP0D .mbr-slider .carousel-control-prev {
+.cid-rJT3f7XoLi .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-rJMoguOP0D .mbr-slider .carousel-control-next {
+.cid-rJT3f7XoLi .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-rJMoguOP0D .mbr-slider .modal-body .close {
+.cid-rJT3f7XoLi .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-rJMoguOP0D .mbr-gallery-item > div::before {
+.cid-rJT3f7XoLi .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  background: #ffffff;
+  background: #554346;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rJMoguOP0D .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-rJT3f7XoLi .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-rJMoguOP0D .mbr-gallery-item > div:hover:before {
-  opacity: 0.1 !important;
+.cid-rJT3f7XoLi .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
 }
-.cid-rJMoguOP0D .mbr-gallery-title {
+.cid-rJT3f7XoLi .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1887,7 +1888,7 @@ section.lazy-placeholder:after {
   color: #fff;
   z-index: 2;
 }
-.cid-rJMoguOP0D .mbr-gallery-title:before {
+.cid-rJT3f7XoLi .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -1895,10 +1896,11 @@ section.lazy-placeholder:after {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #ffffff !important;
-  opacity: 0.1;
+  background: #554346 !important;
+  opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rCvk7yIAfl .navbar {
   padding: .5rem 0;
