@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde 2019",
-    "currentPage": "page20.html",
+    "currentPage": "page23.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -15170,8 +15170,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/divulgaao-produtos-qumicos.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/divulgaao-produtos-qumicos.gif",
+                "image": "@PROJECT_PATH@/assets/images/produtos-qumicos-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/produtos-qumicos-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
