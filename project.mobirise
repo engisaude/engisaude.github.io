@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde 2019",
-    "currentPage": "page3.html",
+    "currentPage": "page24.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -15749,8 +15749,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/aposan-tensimetro-brao.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/aposan-tensimetro-brao.gif",
+                "image": "@PROJECT_PATH@/assets/images/aposan-tensimetro-brao-divulgao.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/aposan-tensimetro-brao-divulgao.gif",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
