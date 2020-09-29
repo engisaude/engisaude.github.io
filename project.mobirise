@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde 2019",
-    "currentPage": "page24.html",
+    "currentPage": "page20.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13465,39 +13465,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/divulgao-moringa-gif.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/divulgao-moringa-gif.gif",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Moringa - super alimento",
-                "active": true
-              },
-              {
-                "tags": "Fantástica",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/propofix-divulgao.gif",
                 "thumb": "@PROJECT_PATH@/assets/images/propofix-divulgao.gif",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Propofix gotas - equinácia+própolis",
-                "active": false
-              },
-              {
-                "tags": "Fantástica",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bioactivo-selenio-zincco-500x500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bioactivo-selenio-zincco-500x500-500x500.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Bioactivo selénio+Zinco 60comp",
-                "active": false
+                "active": true
               }
             ]
           }
