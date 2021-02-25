@@ -1132,6 +1132,18 @@ section.lazy-placeholder:after {
 .cid-rCvpNw3nOx H2 {
   color: #ffffff;
 }
+.cid-sq2IChiYeD {
+  background: #ffffff;
+}
+.cid-sq2IChiYeD .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-sq2IChiYeD .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rCvq0TRrps {
   background-image: url("../../../assets/images/site2-2000x1500.jpg");
 }
