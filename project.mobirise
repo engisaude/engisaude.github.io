@@ -21747,13 +21747,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/cidreira-folhas-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cidreira-folhas-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rosmaninho-2-2000x2523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rosmaninho-2-2000x2523-800x1009.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Cidreira&nbsp;",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animado",
@@ -21843,8 +21843,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Rosmaniinho",
-                "active": true
+                "caption": "Rosmaninho",
+                "active": false
               },
               {
                 "tags": "Animado",
