@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde 2019",
-    "currentPage": "page22.html",
+    "currentPage": "page18.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12160,19 +12160,6 @@
                 "active": false
               },
               {
-                "tags": "Controlo glicémia",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1391.png",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1391-800x580.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<a href=\"page21.html\" class=\"text-white\">Controlo da glicémia</a>",
-                "active": false
-              },
-              {
                 "tags": "Suplementos para desporto",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -12183,7 +12170,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Músculo-esquelético",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Saúde íntima",
@@ -12222,7 +12209,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Saúde íntima",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Ortomolecular",
