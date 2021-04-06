@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde 2019",
-    "currentPage": "index.html",
+    "currentPage": "page25.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -16258,15 +16258,15 @@
             "gallery": [
               {
                 "tags": "Fantástica",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise202136-1159552021-3-2-12-7-10.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/atXs4wK-rkQ",
                 "image": "@PROJECT_PATH@/assets/images/slim-barriga-zero-pg1-1700x1395.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/slim-barriga-zero-pg1-1700x1395-800x656.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page26.html\" class=\"text-white\">AdelgaSlim Barriga Zero</a>",
+                "caption": "Drenalight gama emagrecimento",
                 "active": true
               }
             ]
