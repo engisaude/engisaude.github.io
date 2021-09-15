@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde 2019",
-    "currentPage": "page33.html",
+    "currentPage": "page18.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -11576,7 +11576,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page33.html\">Saúde íntima</a>",
+                "caption": "<a href=\"page33.html\" class=\"text-white\">Saúde íntima</a>",
                 "active": false
               },
               {
