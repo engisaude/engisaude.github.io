@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde 2019",
-    "currentPage": "page1.html",
+    "currentPage": "page31.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -18727,7 +18727,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Cidreira&nbsp;",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animado",
@@ -18740,6 +18740,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Equinácea",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20210915-114613-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20210915-114613-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Erva príncipe",
                 "active": false
               },
               {
@@ -18805,6 +18818,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Oliveira",
+                "active": true
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20210915-114511-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20210915-114511-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Perpétua roxa",
                 "active": false
               },
               {
