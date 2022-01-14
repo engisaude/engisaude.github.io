@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde 2019",
-    "currentPage": "page17.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3976,19 +3976,6 @@
                 "customStyle1": "display-7",
                 "caption": "<a href=\"page10.html\" class=\"text-white\">Aromaterapia humana e-learning</a>",
                 "active": true
-              },
-              {
-                "tags": "Criativo",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/certified-patient-care-technician-506x337.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/certified-patient-care-technician-506x337-506x337.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<a href=\"page12.html\" class=\"text-white\">Técnico Auxiliar de Saúde</a>",
-                "active": false
               },
               {
                 "tags": "Animado",
