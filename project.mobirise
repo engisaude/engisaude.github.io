@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde 2019",
-    "currentPage": "page4.html",
+    "currentPage": "page17.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10761,7 +10761,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"page31.html\" class=\"text-white\">Plantas aromáticas e medicinais</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsivo",
@@ -10865,20 +10865,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Higiene Oral",
-                "active": false
-              },
-              {
-                "tags": "Fantástica",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/qumicos-foto-800x630.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/qumicos-foto-800x630-800x630.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<p>Produtos químicos</p>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Fantástica",
