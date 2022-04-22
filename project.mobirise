@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Engisaúde 2022",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3975,7 +3975,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"page10.html\" class=\"text-white\">Aromaterapia humana e-learning</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animado",
@@ -4001,20 +4001,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"page14.html\" class=\"text-white\">Plantas medicinais e fitoterapia</a>",
-                "active": false
-              },
-              {
-                "tags": "Fantástica",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/homeopatia-divulgao-1200x628.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/homeopatia-divulgao-1200x628-800x419.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<a href=\"page15.html\" class=\"text-white\">Homeopatia humana&nbsp;noções gerais&nbsp;</a>",
-                "active": false
+                "active": true
               }
             ]
           }
